@@ -1,3 +1,16 @@
+**Experimental fork for Rails 7.0.0**
+
+Merged these 2 branches:
+
+- https://github.com/cybersecuricy/devise-two-factor/tree/securicy-activerecord-encryption-rails-6-1
+  - commit: https://github.com/cybersecuricy/devise-two-factor/commit/e409e2080bc503b3557b634bebf0585c25616550
+- https://github.com/kivanio/devise-two-factor/tree/main
+  - commit: https://github.com/kivanio/devise-two-factor/commit/f5e97fad4dc509af9e1a59e20731c3139dd9b6aa
+
+I'm not confident of conflict resolution.
+
+---
+
 # Devise-Two-Factor Authentication
 By [Tinfoil Security](https://www.tinfoilsecurity.com/) (acq. [Synopsys](https://www.synopsys.com/) 2020). Interested in [working with us](https://www.synopsys.com/careers.html)? We're hiring!
 
